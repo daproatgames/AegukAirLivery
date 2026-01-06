@@ -44,8 +44,8 @@
         {
           "name": "HL7681 (Airbus A380-861)",
           "texture": [
-              "https://geo-fs.com/models/aircraft/premium/a380/specular.jpg",        // This is the link to the Specular shader
-              "https://geo-fs.com/models/aircraft/premium/a380/texture_3.jpg",         // This is the link to the Texture
+              "https://geo-fs.com/models/aircraft/premium/a380/normal.jpg",   
+              "https://geo-fs.com/models/aircraft/premium/a380/specular.jpg",    
             "https://i.ibb.co/Xf6fBFZP/Aeguk-Airlines-A380-Geo-FS-Livery-2.png"
           ],
           "credits": "JK23"
