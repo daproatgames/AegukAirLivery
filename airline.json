@@ -2,6 +2,7 @@
   "name": "Aeguk Air",
   "color": "gold",
   "bgcolor": "red",
+  "font": "Oswald",
   "aircrafts": {
     "1": {
       "name": "Piper J3 Cub",
