@@ -54,23 +54,25 @@
       ],
       "labels": ["Normal map", "Specular shader", "Texture"]
     },
-    "239": {
+    "24": {
       "name": "Airbus a350-900",
       "liveries": [
         {
           "name": "HL8619 (Airbus A350-900)",
           "texture": [
+            "https://geo-fs.com/models/aircraft/premium/a350/specular.jpg",
             "https://i.ibb.co/fYvSQkvF/image.png"
           ]
         },
         {
           "name": "HL8621 (Airbus A350-900) KPop Demon Hunters Themed Livery",
           "texture": [
+            "https://geo-fs.com/models/aircraft/premium/a350/specular.jpg",
             "https://i.ibb.co/fzYN5ts0/image.png"
           ]
         }
       ],
-      "labels": ["Texture"]
+      "labels": ["Specular shader", "Texture"]
     }
   }
 }
