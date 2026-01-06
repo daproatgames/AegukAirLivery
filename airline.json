@@ -73,7 +73,7 @@
     {
       "name": "HL8619 (Airbus A350-900)",
       "texture": [
-        "https://geo-fs.com/models/aircraft/premium/a350/specular.jpg",
+        "/models/aircraft/premium/a350/specular.jpg",
         "https://i.ibb.co/1JsHpjHt/Aeguk-Air-Airbus-A350-Livery.jpg"
       ],
       "credits": "JK23"
@@ -81,7 +81,7 @@
     {
       "name": "HL8621 (Airbus A350-900) KPop Demon Hunters Theme",
       "texture": [
-        "https://geo-fs.com/models/aircraft/premium/a350/specular.jpg",
+        "/models/aircraft/premium/a350/specular.jpg",
         "https://i.ibb.co/7MN4c6z/HL8621.jpg"
       ],
       "credits": "JK23"
