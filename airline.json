@@ -53,9 +53,22 @@
         }
       ],
       "labels": ["Normal map", "Specular shader", "Texture"]
-    },
-"24": {
-  "name": "Airbus A350-900",
+    }
+        "24": {
+            "index": [
+                2,
+                3
+            ],
+            "parts": [
+                0,
+                0
+            ],
+            "mp": [
+                {
+                    "modelIndex": 0,
+                    "textureIndex": 1
+                }
+            ],
   "liveries": [
     {
       "name": "HL8619 (Airbus A350-900)",
